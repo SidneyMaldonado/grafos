@@ -1,0 +1,8 @@
+Vertices
+a
+b
+c
+Arestas
+a,b
+b,c
+a,c
